@@ -1,6 +1,4 @@
-# Cloudsage-aws-cloud-tutor
-
-# Cloud Tutor – AI-Powered Learning Assistant (Built with AWS PartyRock)
+# CloudSage – AI-Powered Learning Assistant (Built with AWS PartyRock)
 
 🚀 A multi-purpose cloud-based learning assistant designed to help users:
 - 📚 Learn cloud topics interactively

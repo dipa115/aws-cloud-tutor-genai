@@ -7,6 +7,9 @@
 
 Built using **PartyRock by AWS**, this tool leverages generative AI to provide an intuitive and dynamic learning experience.
 
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="60"/>
+<img src="https://partyrock.aws/images/partyrock-icon.png" alt="PartyRock Logo" width="50"/>
+
 ---
 
 ## 🧠 Features
